@@ -1,0 +1,7 @@
+tensorflow
+numpy 
+pandas
+mtcnn
+cv2
+scipy
+pickle
