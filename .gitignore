@@ -129,7 +129,6 @@ dmypy.json
 .pyre/
 
 try.*
-model/
 
 data/train
 .pylintrc
